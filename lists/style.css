@@ -1,0 +1,36 @@
+
+.navigation {
+    display: inline-block;  
+    border: solid green 2px;
+    background-color: lightgreen;
+}
+#ul1{
+    margin: 0 auto;
+    width: 325px;
+}
+h1  {
+    margin: 0 auto;
+    padding: 10px;
+    padding-left:800px;
+    padding-right:800px;
+    font-size: 100px;
+    background-color: rgb(1, 156, 1);
+}
+#list2 {
+    list-style-type: square;
+    width: 100px;
+}
+h2 {
+    border: groove  rgb(1, 156, 1) 10px;
+    width: 400px;
+    background-color: lightgreen;
+}
+ol {
+    width: 300px;
+}
+.bullet::marker {
+    color: rgb(1, 156, 1);
+}
+dt {
+    color: rgb(1, 156, 1);
+}
